@@ -28,3 +28,9 @@
     border: 10px solid cadetblue;
     margin-bottom: 10px;
 }
+
+.m-heading{
+    color: greenyellow;
+    text-align: right;
+    background-color: black;
+}
